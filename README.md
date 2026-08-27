@@ -7,7 +7,6 @@
 A high-performance C++ implementation of a **Safe Semantic Planner** in a finite Cartesian state space ($\mathbb{R}^d$) utilizing **Lifelong Planning A\* (LPA\*)** with multi-objective safety repulsive barrier fields and real-time interactive visualization.
 
 
-Designed for **PCCST503 – Machine Learning (Assignment 1)**, Department of Computer Science and Engineering.
 
 ---
 
@@ -29,13 +28,6 @@ Designed for **PCCST503 – Machine Learning (Assignment 1)**, Department of Com
 
 ---
 
-<p align="center">
-  <img src="docs/images/planner_concept.jpg" alt="AI Graph Planning in Cartesian State Space Architecture" width="100%" />
-  <br>
-  <em>Continuous Cartesian State Space Architecture, Incremental Search Trees, and Safety Potential Fields.</em>
-</p>
-
----
 
 ## 📁 Repository Structure
 
@@ -136,3 +128,8 @@ python visualizer/app.py
 ## 📄 License
 
 This project is released under the [MIT License](LICENSE).
+
+By
+Pavithra S
+TCR24CS055
+Roll No : 54
