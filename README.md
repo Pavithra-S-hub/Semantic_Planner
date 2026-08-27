@@ -115,20 +115,6 @@ python visualizer/app.py
 
 ---
 
-## 📤 Ready to Upload to Git
-
-To push this repository to your GitHub or GitLab account:
-
-```bash
-git init
-git add .
-git commit -m "Initial commit: Safe Semantic Planner with LPA* and interactive visualizer"
-git branch -M main
-git remote add origin https://github.com/<your-username>/<your-repo-name>.git
-git push -u origin main
-```
-
----
 
 ## 📄 License
 
