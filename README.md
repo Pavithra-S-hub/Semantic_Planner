@@ -6,7 +6,16 @@
 
 A high-performance C++ implementation of a **Safe Semantic Planner** in a finite Cartesian state space ($\mathbb{R}^d$) utilizing **Lifelong Planning A\* (LPA\*)** with multi-objective safety repulsive barrier fields and real-time interactive visualization.
 
+
 Designed for **PCCST503 – Machine Learning (Assignment 1)**, Department of Computer Science and Engineering.
+
+---
+
+<p align="center">
+  <img src="docs/images/visualizer_preview.jpg" alt="Safe Semantic Planner Web Dashboard" width="100%" />
+  <br>
+  <em>Interactive 2D Cartesian Visualizer showing Initial State (Blue), Goal State (Green), Obstacle with Repulsive Safety Buffer (Red), and Optimal Safe Path (Gold).</em>
+</p>
 
 ---
 
@@ -17,6 +26,14 @@ Designed for **PCCST503 – Machine Learning (Assignment 1)**, Department of Com
 - **Multi-Objective Optimization**: Balances goal reachability ($G$), cumulative transition cost ($C$), safety clearance ($D$), and reliability ($R$).
 - **Zero-Dependency Interactive Web Visualizer**: Sleek HTML5/Canvas visual interface for real-time graph editing, dynamic edge dropping, obstacle toggling, and live search step inspection.
 - **Git-Ready Repository**: Clean, minimalist structure with cross-platform build scripts (`build.bat`, `run.bat`, `Makefile`, `CMakeLists.txt`).
+
+---
+
+<p align="center">
+  <img src="docs/images/planner_concept.jpg" alt="AI Graph Planning in Cartesian State Space Architecture" width="100%" />
+  <br>
+  <em>Continuous Cartesian State Space Architecture, Incremental Search Trees, and Safety Potential Fields.</em>
+</p>
 
 ---
 
