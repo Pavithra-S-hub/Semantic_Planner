@@ -129,7 +129,7 @@ python visualizer/app.py
 
 This project is released under the [MIT License](LICENSE).
 
-By<br>
+By<br><br>
 Pavithra S<br>
 TCR24CS055<br>
 Roll No : 54
